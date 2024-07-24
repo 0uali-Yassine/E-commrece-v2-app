@@ -1,4 +1,4 @@
-# E-commerce App README
+# E-commerce App CORAL
 
 ## Description
 
