@@ -4,6 +4,36 @@
 
 This is an e-commerce web application built with React. It allows users to browse products, add them to the cart, and proceed to checkout.
 
+
+## Screenshots
+
+![Homepage](./src/assests/images/main.png)
+
+## Folder Structure
+```
+├── src/
+│   ├── component/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Main.jsx
+│   │   ├── TopMain.jsx
+│   │   ├── Home.jsx
+│   │   ├── Forms.jsx
+│   │   ├── ProductDeatails.jsx
+│   │   ├── BestSellers.jsx
+│   │   └── Menubar.jsx
+│   ├── Context.js
+│   ├── reducer/
+│   │   └── reducer.js
+│   ├── assest/
+│   ├── data/
+│   └── App.js
+├── public/```
+├── package.json
+└── README.md
+```
+
+
 ## Installation
 
 
@@ -35,32 +65,6 @@ This is an e-commerce web application built with React. It allows users to brows
 3. Add products to the cart.
 4. Remove products from the cart.
 
-## Folder Structure
-
-## Folder Structure
-```
-├── src/
-│   ├── component/
-│   │   ├── Navbar.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Main.jsx
-│   │   ├── TopMain.jsx
-│   │   ├── Home.jsx
-│   │   ├── Forms.jsx
-│   │   ├── ProductDeatails.jsx
-│   │   ├── BestSellers.jsx
-│   │   └── Menubar.jsx
-│   ├── Context.js
-│   ├── reducer/
-│   │   └── reducer.js
-│   ├── assest/
-│   ├── data/
-│   └── App.js
-├── public/```
-├── package.json
-└── README.md
-```
-
 
 ## Technologies Used
 
@@ -69,12 +73,6 @@ This is an e-commerce web application built with React. It allows users to brows
 - **Tailwind CSS** Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
 - **Context API:** Used for managing global state across components.
 - **JavaScript:** Programming language for interactivity and functionality.
-
-## Screenshots
-
-![Homepage](./src/assests/images/main.png)
-
-
 
 
 ## Contributing
